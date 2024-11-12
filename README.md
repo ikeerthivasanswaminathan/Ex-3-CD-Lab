@@ -88,7 +88,7 @@ void yyerror(const char *s)
 
 # OUTPUT
 
-![ex3op](https://github.com/user-attachments/assets/fdf47cbb-4e85-46ce-a3e8-30c514d61c44)
+![ex3op](https://github.com/user-attachments/assets/5505c068-bc4e-4109-9f55-2cb0cd207c13)
 
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
